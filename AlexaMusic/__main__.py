@@ -1,12 +1,12 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Copyright (C) 2021-2022 by The_Alone_Network@Github, < https://github.com/AloneopBot >.
+# A Powerful Music Bot Property Of Alone Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Alexa
+# Kanged By © @ALONE_WAS_BOT
+# Network © @The_Alone_Network
+# Owner ALONE
+# ALONE
+# All rights reserved. © Alone © Alexa © Yukki
 
 
 import asyncio
