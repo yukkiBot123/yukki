@@ -1,12 +1,12 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Copyright (C) 2021-2022 by The_Alone_Network@Github, < https://github.com/AloneopBot >.
+# A Powerful Music Bot Property Of Alone Indian Largest Chatting Group
 
-# Kanged By © @Dr_Assad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Yukki
+# Kanged By © @ALONE_WAS_BOT
+# Network © @The_Alone_Network
+# Owner ALONE
+# Alone
+# All rights reserved. © Alone © Alexa © Yukki
 
 
 import re
@@ -43,13 +43,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Jankarikiduniya/AlexaMusic",
+    "https://github.com/AloneopBot/AloneXOpMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", None)
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "The_Alone_Network")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -105,7 +105,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/f6064bc90cc76e59015b2.jpg"
+    "START_IMG_URL", "https://telegra.ph//file/98acd8537876a9ef14ef6.jpg"
 )
 
 PING_IMG_URL = getenv(
