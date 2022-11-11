@@ -34,7 +34,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("AlexaMusic").error(
+        LOGGER("AloneMusic").error(
             "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
         )
     try:
