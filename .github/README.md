@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ ALONE MUSIC 2.0 ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">Alone A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/ALONE_WAS_BOT"><img src="https://telegra.ph//file/98acd8537876a9ef14ef6.jpg" width="400"></a></p>
 
@@ -15,7 +15,7 @@
 
 > ⭐️ Thanks to everyone for using Alexa, That is the greatest pleasure we have !
 
-### Asad– History
+### Alone – History
 
 <a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
