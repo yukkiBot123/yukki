@@ -1,8 +1,8 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Alone Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Alone © @ALONE_WAS_BOT © Alone
+# Owner Alone
+# Alone
 
 
 from typing import Union, List
