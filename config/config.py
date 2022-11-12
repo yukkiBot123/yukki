@@ -18,20 +18,20 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID", "13407836"))
+API_HASH = getenv("API_HASH", "ddb38b2905371fa79d3ee97975b808a3")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "5457063761:AAF4GkQXkZouilD2rMgIye1Dz45O9Nqwaok")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://hny:zara@cluster0.lfe5o.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001801394798"))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Alone")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
@@ -50,9 +50,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "The_Alone_Network")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "The_Alone_Network")
 
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
 
@@ -70,8 +70,8 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 GITHUB_REPO = getenv("GITHUB_REPO", None)
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "315d8e2d77b74ad3ad99547238f56ee8")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "2b82b996eb2c4161b21119b82700d67a")
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3"))
 
@@ -86,7 +86,7 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQCrnvmeyPzX3qyVo8dnY4Hw2-sbnZLC4G_LxY07A8GPJbHsFNsUnMlVA5B8s1kudoqqheXemJw4WG3kuyyVZP8y_-e8EeljxPzH-kiFALUG5k5ftT6pFg_1lhe-NkxAkk28ZhUdsonYGALLK2wVshjzdcHBx54G9qkQi_3GMkxurzRAD1ex5JtGRxEZPOWCoHgj6XkAhv-K_kbapi2Fv04afjd7glG_HuGCaSCnErgbyO0vshff73BqICdzu8dNg3fgnvtOnNLfFzwwM9Fxy9cOvnVfE1BY-ZnUJeReq3oCR7cPkQ_hZbZ-sZRw9zGc_l2FfsxuAFhvPSBrioaJjVVrAAAAAToLiocA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
